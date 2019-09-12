@@ -1,5 +1,4 @@
-# stats_131_final_project
-Final Project of Stats 131
+# Pokemon Legendary Status Prediction
 
 ## Main Contributor:
 * Citina Liang
@@ -20,7 +19,9 @@ Final Project of Stats 131
 
 * README.md - a breif information of the repository
 
+## Methodology
 
+The method we used for prediction is not a traditional predicting model. We used the TPOT which is a automated machine learning techniques. 
 
 
 
